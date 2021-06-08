@@ -1,4 +1,9 @@
-## Welcome to GitHub Pages
+## "Immersive Soundscapes supporting Multimodal interventions for children with ADHD"
+**Poster**
+York University                                             Department of Electronic Engineering 
+Panagiotis Tsagkarakis            Gavin Kearnet             Chris Barlow
+panagiotis.Tsagkarakis@york.ac.uk gavin.kearney@york.ac.uk  christopher.barlow@solent.ac.uk
+
 
 You can use the [editor on GitHub](https://github.com/panoson/Soundscape_ADHD/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
