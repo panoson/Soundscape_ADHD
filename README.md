@@ -1,15 +1,12 @@
 ## "Immersive Soundscapes supporting Multimodal interventions for children with ADHD"
 **Poster**
+
 York University                                             Department of Electronic Engineering 
+
 Panagiotis Tsagkarakis            Gavin Kearnet             Chris Barlow
 panagiotis.Tsagkarakis@york.ac.uk gavin.kearney@york.ac.uk  christopher.barlow@solent.ac.uk
 
-
-You can use the [editor on GitHub](https://github.com/panoson/Soundscape_ADHD/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Attention 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
